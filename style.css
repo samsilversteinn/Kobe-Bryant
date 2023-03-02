@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url("https://wallpaperset.com/w/full/6/4/9/184324.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.kobe {
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+
+p {
+    font-family: 'Gloock', serif;
+    font-size: 20px;
+    color: white;
+}
+
+.container-fluid {
+    padding-top: 250px;
+}
